@@ -1,0 +1,9 @@
+---
+format: html
+---
+
+# Hello
+
+This is the index page.
+
+![](assets/404.png)
